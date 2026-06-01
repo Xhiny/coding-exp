@@ -12,6 +12,10 @@
 + [connection_control插件导致的数据库挂起](https://github.com/quansitech/coding-exp/blob/main/mysql/connection_control_hold_down/doc.md)
 + [mysql升级报错: Can't create thread to handle bootstrap (errno: 1)](https://github.com/quansitech/coding-exp/blob/main/mysql/upgrade_error/doc.md)
 
+## SeaTunnel
+
++ [使用SeaTunnel实现MySQL CDC同步数据到ClickHouse](https://github.com/quansitech/coding-exp/blob/main/seatunnel/mysql_cdc_to_clickhouse/doc.md)
+
 ## SSL证书
 
 + [使用certbot申请、续期泛域名SSL证书](https://github.com/quansitech/coding-exp/blob/main/ssl_certificate/obtain_wildcard_certificate_from_letsencrypt/doc.md)
