@@ -16,6 +16,7 @@
 
 + [使用SeaTunnel实现MySQL CDC同步数据到ClickHouse](https://github.com/quansitech/coding-exp/blob/main/seatunnel/mysql_cdc_to_clickhouse/doc.md)
 + [SeaTunnel Checkpoint 持久化与恢复实践](https://github.com/quansitech/coding-exp/blob/main/seatunnel/checkpoint_persistence/doc.md)
++ [SeaTunnel 任务重启的重复写入与全量重跑配置](https://github.com/quansitech/coding-exp/blob/main/seatunnel/job_restart_full_reload/doc.md)
 
 ## SSL证书
 
